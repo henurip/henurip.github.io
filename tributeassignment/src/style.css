@@ -1,0 +1,45 @@
+#main{
+  background-color: white;
+  font-family: tahoma;
+  padding: 10px;
+  text-align:center;
+}
+#tittle{
+  font-size: 30px;
+  text-align:center;
+}
+#img-div{
+  background-color: black;
+  padding: 25px;  
+}
+#image{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+#img-caption{
+  color: white;
+  font-size: 13px;
+  text-align: center;
+}
+ul{
+  margin-left:15%;
+  font-size:14px;
+  padding:10px;
+}
+li{
+  margin:1em;
+}
+
+#tribute-info{
+  text-align :left;
+}
+
+#tribute-link{
+  
+}
+
+

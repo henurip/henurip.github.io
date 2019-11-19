@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Alatsi&display=swap');
+
+body{
+  width: 1200px;
+  height: 1200px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  z-index: 0;
+  padding: 25px;
+  font-family: Alatsi;
+}
+body::after {
+  background: url(https://www.friendschurch.ca/wp-content/uploads/2018/04/Discussion-Group-Facebook.jpg);
+  content: "";
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;   
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+#title{
+  text-align: center;
+  margin: 0;
+  color: #6b6b47;
+}
+#description{
+  font-size: 20px;
+  text-align: center;
+  color: #6b6b47;
+}
+#survey-form{
+  background-color: rgba(102,51,0,0.2);
+  width: 80%;
+  border-radius:4px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 19px 2em;
+}
+#name-label{
+  font-size: 1.2em;
+  padding-bottom: 30px;
+}
+#name{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 5px 0px;
+  box-sizing: border-box;
+}
+#email-label{
+  font-size: 1.2em;
+  position: relative;
+  top: 12px;
+}
+#email{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 5px 0px;
+  box-sizing: border-box;
+  position: relative;
+  top: 12px;
+}
+#number-label{
+  font-size: 1.2em;
+  position: relative;
+  top: 20px;
+}
+#number{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 25px 0px;
+  box-sizing: border-box;
+}
+#experience-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -10px;
+}
+#dropdown{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 25px 0px;
+  box-sizing: border-box;
+  position: relative;
+  top: -30px;
+  color: #7e7e7e;
+}
+#recomended-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -40px;
+}
+#recomended1{
+  font-size: 1.0em;
+  position: relative;
+  margin-top: -40px;  
+}
+#recomended2{
+  font-size: 1.0em;
+  position: relative;
+  margin-top: -10px;  
+}
+#recomended3{
+  font-size: 1.0em;
+  position: relative;
+  margin-top: -10px;  
+}
+#dropdown2{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 25px 0px;
+  box-sizing: border-box;
+  position: relative;
+  top: -30px;
+  color: #7e7e7e;
+}
+#favorite-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -8px;
+}
+#sugesstion-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -40px;
+}
+#sugesstion1{
+  position: relative;
+  top: -55px;
+}
+#sugesstion2{
+  position: relative;
+  top: -65px;
+}
+#sugesstion3{
+  position: relative;
+  top: -75px;
+}
+#sugesstion4{
+  position: relative;
+  top: -85px;
+}
+#sugesstion5{
+  position: relative;
+  top: -95px;
+}
+#sugesstion6{
+  position: relative;
+  top: -105px;
+}
+#comment-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -110px;
+}
+#comment{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 25px 0px;
+  box-sizing: border-box;
+  position: relative;
+  top: -130px;
+  color: #7e7e7e;
+}
+#favorite-label{
+  font-size: 1.2em;
+  position: relative;
+  top: -8px;
+  position:relative;
+  top:100px"
+}
+#submit{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 25px 0px;
+  box-sizing: border-box;
+  position: relative;
+  top:-155px;
+  background-color: #fed22b;
+  font-size: 1.2em;
+  font-family: Alatsi;
+}
+
+

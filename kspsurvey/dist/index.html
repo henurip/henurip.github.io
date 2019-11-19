@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>KSPSurvey</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+  <head>
+  </head>
+  <body>
+    <h1 id="title">Kick Start Program Survey Form</h1>
+    <p id="description" style="margin-top: 0.3em"><i>Thank you for taking time to helping us improve the program</i></p>
+    <form id="survey-form" action="/url-where-you-want-to-submit-form-data">
+      <label for="name" id="name-label"> Name </label><br>
+      <input type="text" id="name" placeholder="Enter your name" required><br>
+      <label for="email" id="email-label"> Email </label><br>
+      <input type="email" id="email" placeholder="Enter your email" required><br>
+      <label for="age" id="number-label"> Age </label><br>
+      <input type="number" id="number" placeholder="Enter your age between 18 - 60" min="18" max="100">
+       <label for="experience" id="experience-label"> Which option best to describe your experience/field </label><br>
+      <select name="favorite" id="dropdown2">
+  <option selected="selected">Select your field</option>
+  <option value="it">Information Technology</option>
+  <option value="health">Healthcare</option>
+  <option value="teach">Teacher</option>
+  <option value="others">Others</option>      
+</select>
+    <label for="recomended" id="recomended-label"> Would you recomended Kick Start Program to others </label><br>  
+      <p id ="recomended1"><input type="radio" name="name" value="definetly">Definetly</p>
+      <p id ="recomended2"><input type="radio" name="name" value="maybe">Maybe</p>
+      <p id ="recomended3"><input type="radio" name="name" value="notsure">Not Sure<br></p>
+     <label for="favorite" id="favorite-label"> 
+What is your favorite session of Kick Start Program? </label><br>
+      <select name="experience" id="dropdown">
+  <option selected="selected">Select your favorite session</option>
+  <option value="LinkedIn">Linked In</option>
+  <option value="WorkingCulture">Working Culture</option>
+  <option value="Mentorship">Mentorship</option>
+  <option value="others">Others</option>      
+</select>
+      <label for="suggesstion" id="sugesstion-label"> 
+What would you like to see improved? (Check all that apply) </label><br>
+      <p id="sugesstion1"><input id="linkedin" type="checkbox" name="sugesstion" value="linkedin"> Linked In</p>
+      <p id="sugesstion2"><input id="Mentorship" type="checkbox" name="sugesstion" value="mentorship"> Mentorship</p>
+      <p id="sugesstion3"><input id="WorkCulture" type="checkbox" name="sugesstion" value="workculture"> Work Culture</p>
+      <p id="sugesstion4"><input id="JobMarket" type="checkbox" name="sugesstion" value="jobmarket"> Job Market</p>
+      <p id="sugesstion5"><input id="InterviewTips" type="checkbox" name="sugesstion" value="interview"> Interview Tips</p>
+      <p id="sugesstion6"><input id="Bussiness" type="checkbox" name="sugesstion" value="bussiness"> Start Your Own Bussiness</p>
+      <label for="comment" id="comment-label"> 
+Any comment/sugesstion? </label><br>
+      <textarea rows="4" cols="100%" id="comment"></textarea>
+      <button type="submit" id="submit">Submit</button>
+      </form>  
+  </body>
+</html>
+<!-- partial -->
+  
+</body>
+</html>
