@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="33" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="jScrollPane2" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="jScrollPane3" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="jScrollPane1" alignment="0" min="-2" pref="377" max="-2" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane4" min="-2" pref="490" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="1">
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="509" max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" pref="101" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="313" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="174" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="23" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="1">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jScrollPane1" min="-2" max="-2" attributes="1"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" min="-2" pref="105" max="-2" attributes="1"/>
+                      </Group>
+                      <Component id="jScrollPane4" max="32767" attributes="1"/>
+                  </Group>
+                  <EmptySpace pref="35" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea4">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="33" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Monospaced" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="     The following Three classes are &#xa;the source code to build this program&#xa;you may study the source code and make&#xa;your own project, you can copy these &#xa;three codes by pasting into your project, &#xa;dont forget that these three classes are &#xa;separated:&#xa;&#xa;1.The Method : KP.java&#xa;2.Tester     : TestKP.java&#xa;3.Main&#x9;     : Main.java&#xa;&#xa;        Thanks for using the program&#xa;            Have Fun Play Fair"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="3. Playfair Main Class : Main.java"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2. Playfair Testing Class : TestKP.java"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1. Playfair Methods Class: KP.java"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="The Source Codes"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea2">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="public class Main {&#xa;&#xa;    public static void main(String[] args) {&#xa;&#xa;        String a=&quot;ko&quot;;&#xa;&#xa;        System.out.println(a.substring(1,2));&#xa;        &#xa;        &#xa;    }&#xa;&#xa;}&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="text2">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="package kodeplayfair;&#xa;&#xa;&#xa;import javax.swing.JOptionPane;&#xa;&#xa;public class TestKP {&#xa;&#xa;    public static void main(String[] args) {&#xa;        KP KodePlayfair = new KP();&#xa;        String key = KodePlayfair.KataKunci(JOptionPane.showInputDialog(&quot;Submit the key for the Matrix:&quot;));&#xa;&#xa;&#xa;        System.out.println(&quot;Inputed key: &quot; + key);&#xa;        //masukkan ke matrik&#xa;        int matrik[][] = KodePlayfair.inputMatrik(key);&#xa;&#xa;        //show matrik&#xa;        for (int i = 0; i &lt; matrik.length; i++) {&#xa;            for (int j = 0; j &lt; matrik.length; j++) {&#xa;                //System.out.print(matrik[i][j]+&quot; &quot;);&#xa;                System.out.print(KodePlayfair.ConvertToWord(matrik[i][j]) + &quot; &quot;);&#xa;            }&#xa;            System.out.println(&quot;&quot;);&#xa;        }&#xa;&#xa;        System.out.println(&quot;\u005cn**************************************&quot;);&#xa;        String plaintText = JOptionPane.showInputDialog(&quot;Submit the Plaintext:&quot;);&#xa;        System.out.println(&quot;Plaintext : &quot;+plaintText);&#xa;        //olah data inputan&#xa;         System.out.println(&quot;**************************************&quot;);&#xa;        String text = KodePlayfair.olahInputan(plaintText);&#xa;        System.out.println(&quot;Playfaired Plaintext :&quot; + text);&#xa;&#xa;        //enkrip&#xa;        String b = KodePlayfair.chipperText(text, matrik);&#xa;        System.out.println(&quot;Ciphertext Result    :&quot; + b);&#xa;        System.out.println(&quot;**************************************&quot;);&#xa;        &#xa;        //dekrip&#xa;        String text1 = KodePlayfair.olahInputan(b);&#xa;        System.out.println(&quot;The Ciphertext       :&quot; + text1);&#xa;        String c = KodePlayfair.plaintText(text1, matrik);&#xa;        System.out.println(&quot;Decrypted Ciphertext : &quot; + c);&#xa;        System.out.println(&quot;**************************************&quot;);&#xa;&#xa;           System.out.println(&quot;Have Fun ! Playfair!!&quot;);&#xa;&#xa;    }&#xa;}" containsInvalidXMLChars="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="text1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="package kodeplayfair;&#xa;&#xa;&#xa;public class KP {&#xa;    public static void main(String[] args) {&#xa;        &#xa;            &#xa;    }&#xa;    public KP(){}&#xa;&#xa;    public String olahInputan(String a ){&#xa;        String text=&quot;&quot;;&#xa;        //menghilangkan spasi&#xa;            for(int i=0; i&lt;a.length();i++){&#xa;                String text1=(a.substring(i,i+1));&#xa;                if(text1.equals(&quot; &quot;)==false){&#xa;                    text=text+text1;&#xa;                }&#xa;            }&#xa;            //cek bagian data yang sama,jika ada ditambah huruf &apos;x&apos;&#xa;            int pjgKunci=text.length();&#xa;            for(int i=0; i&lt;pjgKunci; i=i+2){&#xa;                if(i==text.length()-1){&#xa;                    if(text.length()%2!=0){&#xa;                        text=text+&quot;x&quot;;&#xa;                    }&#xa;                }&#xa;                String x1=text.substring(i,i+1);&#xa;                String x2=text.substring(i+1,i+2);&#xa;                if(x1.equalsIgnoreCase(x2)){&#xa;                    text=text.substring(0,i+1)+&quot;x&quot;+text.substring(i+1,text.length());&#xa;                    pjgKunci++;&#xa;                }&#xa;&#xa;            }&#xa;        return text;&#xa;    }&#xa;    public String plaintText(String chipperText,int matrik[][]){&#xa;        String plaintText=&quot;&quot;;&#xa;        int aPost[]=new int[2];&#xa;        int bPost[]=new int[2];&#xa;        int length=0;&#xa;&#xa;        if(chipperText.length()%2!=0){&#xa;            //int aa=(int)(Math.random()*25)+1;&#xa;            length=chipperText.length()+1;&#xa;            chipperText=chipperText+&quot;x&quot;;&#xa;        }else length=chipperText.length();&#xa;&#xa;            for(int i=0; i&lt;length; i=i+2){&#xa;                int a=ConvertToDecimal(chipperText.substring(i,i+1));&#xa;                int b=ConvertToDecimal(chipperText.substring(i+1,i+2));&#xa;                aPost=post(matrik,a);&#xa;                bPost=post(matrik,b);&#xa;&#xa;                if(aPost[0]==bPost[0]){//horizontal&#xa;                    int xA=aPost[1]-1;&#xa;                    int xB=bPost[1]-1;&#xa;                    if(xA==-1){&#xa;                        xA=4;&#xa;                    }&#xa;                    if(xB==-1){&#xa;                        xB=4;&#xa;                    }&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[aPost[0]][xA]);&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[bPost[0]][xB]);&#xa;                }else if(aPost[1]==bPost[1]){//vertikal&#xa;                    int xA=aPost[0]-1;&#xa;                    int xB=bPost[0]-1;&#xa;                    if(xA==-1){&#xa;                        xA=4;&#xa;                    }&#xa;                    if(xB==-1){&#xa;                        xB=4;&#xa;                    }&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[xA][aPost[1]]);&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[xB][bPost[1]]);&#xa;                }else{&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[aPost[0]][bPost[1]]);&#xa;                    plaintText=plaintText+&quot;&quot;+ConvertToWord(matrik[bPost[0]][aPost[1]]);&#xa;                }&#xa;&#xa;            }&#xa;        return plaintText;&#xa;    }&#xa;    public  String chipperText(String plaintText,int matrik[][]){&#xa;        String chipperText=&quot;&quot;;&#xa;        int aPost[]=new int[2];&#xa;        int bPost[]=new int[2];&#xa;        int length=0;&#xa;        if(plaintText.length()%2!=0){&#xa;&#xa;            //int aa=(int)(Math.random()*25)+1;&#xa;            length=plaintText.length()+1;&#xa;            plaintText=plaintText+&quot;x&quot;;&#xa;        }else length=plaintText.length();&#xa;&#xa;            for(int i=0; i&lt;length; i=i+2){&#xa;                int a=ConvertToDecimal(plaintText.substring(i,i+1));&#xa;                int b=ConvertToDecimal(plaintText.substring(i+1,i+2));&#xa;                aPost=post(matrik,a);&#xa;                bPost=post(matrik,b);&#xa;&#xa;                if(aPost[0]==bPost[0]){&#xa;                    int xA=aPost[1]+1;&#xa;                    int xB=bPost[1]+1;&#xa;                    if(xA==5){&#xa;                        xA=0;&#xa;                    }&#xa;                    if(xB==5){&#xa;                        xB=0;&#xa;                    }&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[aPost[0]][xA]);&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[bPost[0]][xB]);&#xa;                }else if(aPost[1]==bPost[1]){&#xa;                    int xA=aPost[0]+1;&#xa;                    int xB=bPost[0]+1;&#xa;                    if(xA==5){&#xa;                        xA=0;&#xa;                    }&#xa;                    if(xB==5){&#xa;                        xB=0;&#xa;                    }&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[xA][aPost[1]]);&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[xB][bPost[1]]);&#xa;                }else{&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[aPost[0]][bPost[1]]);&#xa;                    chipperText=chipperText+&quot;&quot;+ConvertToWord(matrik[bPost[0]][aPost[1]]);&#xa;                }&#xa;                &#xa;            }&#xa;        return chipperText;&#xa;    }&#xa;    public int[] post(int matrik[][], int a){&#xa;&#xa;        int x[]=new int[2];&#xa;        for(int i=0; i&lt;matrik.length; i++){&#xa;            for(int j=0; j&lt;matrik.length; j++){&#xa;                if(a==matrik[i][j]){&#xa;                    x[0]=i;&#xa;                    x[1]=j;&#xa;                    break;&#xa;                }&#xa;            }&#xa;        }&#xa;        return x;&#xa;&#xa;    }&#xa;    public int[][] inputMatrik(String aLength){&#xa;        int matrik[][]=new int[5][5];&#xa;            int count=0;&#xa;            int dAngka=1;&#xa;            for(int i=0; i&lt;matrik.length; i++){&#xa;                for(int j=0; j&lt;matrik.length; j++){&#xa;                    if((count+1)!=aLength.length()+1){&#xa;                        int angka=ConvertToDecimal(aLength.substring(count,(count+1)));&#xa;                        matrik[i][j]=angka;&#xa;                        count++;&#xa;                    }else{&#xa;&#xa;                        for(int k=0; k&lt;=i;k++){&#xa;                            for(int l=0; l&lt;matrik.length;l++){&#xa;                                //System.out.println(dAngka+&quot; = &quot;+matrik[k][l]);&#xa;                                if(dAngka==matrik[k][l]){&#xa;                                    dAngka++;&#xa;                                    k=0;l=-1;&#xa;                                }&#xa;                            }&#xa;                        }&#xa;                        matrik[i][j]=dAngka;&#xa;                        dAngka++;&#xa;                    }&#xa;&#xa;                }&#xa;            }&#xa;            return matrik;&#xa;&#xa;    }&#xa;    public String KataKunci(String a){&#xa;        String ktKunci=&quot;&quot;;&#xa;                        &#xa;            String c[]=new String[a.length()];&#xa;            boolean flag=false;&#xa;            for(int i=0; i&lt;a.length();i++){&#xa;                String b=a.substring(i,(i+1));&#xa;                for(int j=0; j&lt;=i;j++){&#xa;                    if(b.equalsIgnoreCase(c[j])){&#xa;                        flag=true;&#xa;                    }&#xa;                }&#xa;                if(flag==false){&#xa;                    c[i]=b;&#xa;                }&#xa;                flag=false;&#xa;                if(c[i]!=null){&#xa;                ktKunci=ktKunci+c[i];&#xa;                }&#xa;                &#xa;            }&#xa;        return ktKunci;&#xa;    }&#xa;&#xa;    public String ConvertToWord(int angka){&#xa;        String huruf=&quot;&quot;;&#xa;            if(angka==1)huruf=&quot;a&quot;;&#xa;            else if(angka==2)huruf=&quot;b&quot;;&#xa;            else if(angka==3)huruf=&quot;c&quot;;&#xa;            else if(angka==4)huruf=&quot;d&quot;;&#xa;            else if(angka==5)huruf=&quot;e&quot;;&#xa;            else if(angka==6)huruf=&quot;f&quot;;&#xa;            else if(angka==7)huruf=&quot;g&quot;;&#xa;            else if(angka==8)huruf=&quot;h&quot;;&#xa;            else if(angka==9)huruf=&quot;i&quot;;&#xa;            else if(angka==10)huruf=&quot;k&quot;;&#xa;            else if(angka==11)huruf=&quot;l&quot;;&#xa;            else if(angka==12)huruf=&quot;m&quot;;&#xa;            else if(angka==13)huruf=&quot;n&quot;;&#xa;            else if(angka==14)huruf=&quot;o&quot;;&#xa;            else if(angka==15)huruf=&quot;p&quot;;&#xa;            else if(angka==16)huruf=&quot;q&quot;;&#xa;            else if(angka==17)huruf=&quot;r&quot;;&#xa;            else if(angka==18)huruf=&quot;s&quot;;&#xa;            else if(angka==19)huruf=&quot;t&quot;;&#xa;            else if(angka==20)huruf=&quot;u&quot;;&#xa;            else if(angka==21)huruf=&quot;v&quot;;&#xa;            else if(angka==22)huruf=&quot;w&quot;;&#xa;            else if(angka==23)huruf=&quot;x&quot;;&#xa;            else if(angka==24)huruf=&quot;y&quot;;&#xa;            else if(angka==25)huruf=&quot;z&quot;;&#xa;        return huruf;&#xa;    }&#xa;    public int ConvertToDecimal(String abjad){&#xa;        int angka=0;&#xa;            if(abjad.equalsIgnoreCase(&quot;a&quot;))angka=1;&#xa;            else if(abjad.equalsIgnoreCase(&quot;b&quot;))angka=2;&#xa;            else if(abjad.equalsIgnoreCase(&quot;c&quot;))angka=3;&#xa;            else if(abjad.equalsIgnoreCase(&quot;d&quot;))angka=4;&#xa;            else if(abjad.equalsIgnoreCase(&quot;e&quot;))angka=5;&#xa;            else if(abjad.equalsIgnoreCase(&quot;f&quot;))angka=6;&#xa;            else if(abjad.equalsIgnoreCase(&quot;g&quot;))angka=7;&#xa;            else if(abjad.equalsIgnoreCase(&quot;h&quot;))angka=8;&#xa;            else if(abjad.equalsIgnoreCase(&quot;i&quot;) || (abjad.equalsIgnoreCase(&quot;j&quot;)))angka=9;&#xa;            else if(abjad.equalsIgnoreCase(&quot;k&quot;))angka=10;&#xa;            else if(abjad.equalsIgnoreCase(&quot;l&quot;))angka=11;&#xa;            else if(abjad.equalsIgnoreCase(&quot;m&quot;))angka=12;&#xa;            else if(abjad.equalsIgnoreCase(&quot;n&quot;))angka=13;&#xa;            else if(abjad.equalsIgnoreCase(&quot;o&quot;))angka=14;&#xa;            else if(abjad.equalsIgnoreCase(&quot;p&quot;))angka=15;&#xa;            else if(abjad.equalsIgnoreCase(&quot;q&quot;))angka=16;&#xa;            else if(abjad.equalsIgnoreCase(&quot;r&quot;))angka=17;&#xa;            else if(abjad.equalsIgnoreCase(&quot;s&quot;))angka=18;&#xa;            else if(abjad.equalsIgnoreCase(&quot;t&quot;))angka=19;&#xa;            else if(abjad.equalsIgnoreCase(&quot;u&quot;))angka=20;&#xa;            else if(abjad.equalsIgnoreCase(&quot;v&quot;))angka=21;&#xa;            else if(abjad.equalsIgnoreCase(&quot;w&quot;))angka=22;&#xa;            else if(abjad.equalsIgnoreCase(&quot;x&quot;))angka=23;&#xa;            else if(abjad.equalsIgnoreCase(&quot;y&quot;))angka=24;&#xa;            else if(abjad.equalsIgnoreCase(&quot;z&quot;))angka=25;&#xa;            &#xa;        return angka;&#xa;    }&#xa;}"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Close "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
